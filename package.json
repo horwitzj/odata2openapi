@@ -1,5 +1,5 @@
 {
-  "name": "odata2openapi",
+  "name": "odata2openapiwithmicrosoftgraphfix",
   "version": "1.2.4",
   "description": "Convert OData metadata document to OpenAPI (fka Swagger) format",
   "files": [
@@ -34,5 +34,8 @@
   },
   "dependencies": {
     "xml2js": "^0.4.17"
+  },
+  "directories": {
+    "example": "example"
   }
 }
